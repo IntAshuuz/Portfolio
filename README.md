@@ -1,1 +1,1 @@
-My portfolio ..build on html css and js
+My portfolio ..build on html css and javascript
